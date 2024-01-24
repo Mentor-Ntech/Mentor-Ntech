@@ -8,7 +8,6 @@ I have a passion for coding, currently I'm building on MERN stack, and also I'm 
 
 * 🌍  I'm based in Lagos, Nigeria.
 * ✉️  You can contact me at [oloyedeaderayo11@gmail.com](mailto:oloyedeaderayo11@gmail.com)
-* 🚀  I'm currently working on [an open source project](http://github.com/Mentor-Ntech/celo-africa-dao)
 * 🧠  I'm learning Solidity and Typscript
 * 🤝  I'm open to collaborating on any Open Sources Project
 
